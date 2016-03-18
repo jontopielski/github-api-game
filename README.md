@@ -2,7 +2,7 @@
 Battle 2 github accounts!
 
 # Instructions
-`git clone <git-clone-uri>`
+`git clone https://github.com/topielski/github-api-game.git`
 
 `npm install`
 
